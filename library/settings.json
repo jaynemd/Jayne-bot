@@ -1,0 +1,12 @@
+{
+  "antilink": {},
+  "antitag": {},
+  "antibadword": {},
+  "antipromote": {},
+  "antidemote": {},
+  "antivirus": {},
+  "autolike": { "enabled": false },
+  "autoread": { "enabled": false },
+  "autorecord": { "enabled": false },
+  "autotyping": { "enabled": false }
+}
