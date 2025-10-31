@@ -7,12 +7,15 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:Tennor-modz/MD-Baileys",
+    "@whiskeysockets/baileys": "github:jaynemd/MD-Baileys",
     "pino": "^8.0.0",
     "axios": "^0.27.2",
   "yt-search": "^2.10.4",
     "api-dylux": "^1.8.5",
     "btch-downloader": "^4.0.15",
+    "js-confuser":"^1.7.3",
+    "form-data":"latest",
+    "node-webpmux":"^3.1.1",
     "node-fetch": "^2.6.7",
     "mime-types": "^2.1.35",
     "fluent-ffmpeg": "^2.1.2",
